@@ -1,1 +1,4 @@
 # minesweeper-robot
+
+To start:
+
